@@ -1,4 +1,4 @@
-package practical8;
+package practical8.model;
 
 public class User {
     private String username;
